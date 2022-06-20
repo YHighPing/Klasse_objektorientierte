@@ -62,8 +62,4 @@ function Bucharten(){
 
 function verfuegbar(){
 }
-//die Frage stellen wir uns immer obs funktioniert hat
-
-//Jesus
-
-//jesus ist unser freund
+//funktioniert es

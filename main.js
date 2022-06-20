@@ -63,3 +63,5 @@ function Bucharten(){
 function verfuegbar(){
 }
 //die Frage stellen wir uns immer obs funktioniert hat
+
+//Joseph von Eichendorff ist mein größtes Vorbild neben dir ;)

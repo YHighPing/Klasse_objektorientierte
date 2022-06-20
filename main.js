@@ -62,3 +62,4 @@ function Bucharten(){
 
 function verfuegbar(){
 }
+//die Frage stellen wir uns immer obs funktioniert hat

@@ -52,8 +52,8 @@ class Bücher{
 
 function Bucharten(){
     Buch1= new Bücher("Unterm Rad",50,5,"Grün","Hermann Hesse")
-    Buch2= new Bücher ("50 Tierarten",60,20,"Schwarz","Goethe")
-    Buch3= new Bücher ("Mathebuch 11",250,2,"Gelb","Dr. Joachim ")
+    Buch2= new Bücher ("50 Tierarten",60,20,"Schwarz","Dr. Joachim")
+    Buch3= new Bücher ("Mathebuch 11",250,2,"Gelb","Alexander Van Jai de Schümann ")
     Buch4 = new Bücher ("Englischbuch",500,15,"Orange","David")
     console.log("Es sind noch "+Buch1.Anzahl+" Bücher vorhanden")
 
